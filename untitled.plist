@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>Color Collect</string>
+				<string>ColorCollect</string>
 				<key>bundle-version</key>
 				<string>2.6.8</string>
 				<key>kind</key>
