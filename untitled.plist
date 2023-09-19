@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>/var/mobile/Containers/Data/Application/C5CEA20B-A5E7-443F-8A28-6F67CD8BFA09/Documents/RatinSertResourcesWebServerDocument/ColorCapture.ipa</string>
+					<string>http://127.0.0.1:13140/ColorCapture.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
