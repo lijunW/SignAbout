@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
 <plist version="1.0">  
-<dict>  <key>items</key>  <array>  <dict>  <key>assets</key>  <array>  <dict>  <key>kind</key>  <string>software-package</string>  <key>url</key>  <string>string>file:///var/mobile/Containers/Data/Application/06B5873E-88A9-40D7-ABE1-4C57D715D259/Documents/RatinSertResourcesWebServerDocument/ColorCapture.ipa</string>  </dict>  </array>  <key>metadata</key>  <dict>  <key>bundle-identifier</key>  <string>com.evencheng.ecsign</string>  <key>bundle-version</key>  <string>6.4.1</string>  <key>kind</key>  <string>software</string>  <key>title</key>  <string>秒签</string>  </dict>  </dict>  </array>
+<dict>  <key>items</key>  <array>  <dict>  <key>assets</key>  <array>  <dict>  <key>kind</key>  <string>software-package</string>  <key>url</key>  <string>file:///var/mobile/Containers/Data/Application/C5CEA20B-A5E7-443F-8A28-6F67CD8BFA09/Documents/RatinSertResourcesWebServerDocument/ColorCapture.ipa</string>  </dict>  </array>  <key>metadata</key>  <dict>  <key>bundle-identifier</key>  <string>com.wizeyes.colorcapture</string>  <key>bundle-version</key>  <string>2.6.8</string>  <key>kind</key>  <string>software</string>  <key>title</key>  <string>Color Collect</string>  </dict>  </dict>  </array>
 </dict>  
 </plist>
